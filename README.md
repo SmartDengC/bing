@@ -1,6 +1,8 @@
 # Bing Picture
 
 必应照片
+主要是使用fastapi快速构建部署访问bing每日壁纸。
+主要是main.py中的代码， php为github原始代码，py为转换后代码， 但是在main中均未被引用。
 
 ## 一、简单快速部署 
 
