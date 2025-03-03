@@ -3,7 +3,6 @@ import json
 from fastapi import FastAPI, Response
 from fastapi.responses import RedirectResponse
 import uvicorn
-from py.m_302 import get_bing_image as get_bing_image_302
 
 app = FastAPI(title="必应每日壁纸")
 
